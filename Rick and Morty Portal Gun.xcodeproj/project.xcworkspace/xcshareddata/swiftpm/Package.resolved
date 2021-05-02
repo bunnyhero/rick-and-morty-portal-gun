@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RickMortySwiftApi",
+        "repositoryURL": "https://github.com/benjaminbruch/Rick-and-Morty-Swift-API",
+        "state": {
+          "branch": null,
+          "revision": "7437cee124cdc99c82227022559b26295273c443",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
