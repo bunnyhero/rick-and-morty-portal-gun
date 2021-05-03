@@ -31,6 +31,8 @@ Overview
 
 This app lets you view some simple information about the Rick and Morty multiverse using AR. Choose a setting, point the gun at a flat surface, and fire! Tap on any character portrait to find out who it is. Requires an ARKit-capable iPhone.
 
+* [Video demo](https://youtu.be/bWGl_3JFzRI)
+
 Planning
 --------
 
